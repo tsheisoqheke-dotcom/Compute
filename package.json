@@ -1,0 +1,18 @@
+{
+  "name": "compute",
+  "version": "1.0.0",
+  "description": "edwin ndebele",
+  "keywords": [
+    "calculator"
+  ],
+  "license": "MIT",
+  "author": "Edwin Ndebele",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.3"
+  }
+}
